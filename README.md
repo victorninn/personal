@@ -1,1 +1,1 @@
-![Uploading avatar-no-bg.png…]()
+<img src="avatar-no-bg.png">
